@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**Welcome to my GitHub Profile**
+**I am Dezen**
+*This is my first day on GitHub.*
